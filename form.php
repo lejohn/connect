@@ -7,6 +7,12 @@
 </head>
 <body>
     <p>Test Page.</p>
-	
+    <form>
+    	<p>Region: <select name="regiondrop">
+    		<?php ?> 
+    		<option value=""></option>
+    		</select>
+    	</p>
+    </form>	
 </body>	
 </html>
