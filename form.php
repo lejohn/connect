@@ -7,7 +7,13 @@
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
      <title>WineStore</title>
      <style type="text/css">
+          body {
+               font-family: Arial, Verdana, Tahoma;
+               font-size: 12px;
+          }
+          
           #content{
+               width: 900px;
                margin: 0 auto 0 auto;
                border: 1px solid #000000;
           }
