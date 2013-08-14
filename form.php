@@ -22,7 +22,7 @@
 </head>
 <body>
      <div id="content">
-          <p>Test Page.</p>
+          <h1>Search Wines</h1>
           <form>
     	          <p>Region: 
     	               <select name="regiondrop">
